@@ -1,0 +1,7 @@
+<!---
+This is an example Language file here you can add more translations.
+---->
+<Table>
+	<Meta Author="RampageDev"/>
+	<Translation Original="Home" Replace="Translated whatever"/>
+</Table>

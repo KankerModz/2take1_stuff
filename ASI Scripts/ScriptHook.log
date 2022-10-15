@@ -1,0 +1,803 @@
+[2022-10-09 14:22:36] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-09 14:22:38] [Msg] Creating d3d hook
+[2022-10-09 14:22:38] [Msg] Creating script hook
+[2022-10-09 14:22:38] [Msg] Waiting for game state
+[2022-10-09 14:22:48] [Msg] Waiting for game state
+[2022-10-09 14:22:58] [Msg] Waiting for game state
+[2022-10-09 14:23:08] [Msg] Waiting for game state
+[2022-10-09 14:23:18] [Msg] Waiting for game state
+[2022-10-09 14:23:28] [Msg] Waiting for game state
+[2022-10-09 14:23:38] [Msg] Waiting for game state
+[2022-10-09 14:23:49] [Msg] Waiting for game state
+[2022-10-09 14:23:59] [Msg] Waiting for game state
+[2022-10-09 14:24:09] [Msg] Waiting for game state
+[2022-10-09 14:24:19] [Msg] Waiting for game state
+[2022-10-09 14:24:29] [Msg] Waiting for game state
+[2022-10-09 14:24:39] [Msg] Waiting for game state
+[2022-10-09 14:24:49] [Msg] Waiting for game state
+[2022-10-09 14:24:59] [Msg] Waiting for game state
+[2022-10-09 14:25:09] [Msg] Waiting for game state
+[2022-10-09 14:25:19] [Msg] Waiting for game state
+[2022-10-09 14:25:29] [Msg] Waiting for game state
+[2022-10-09 14:25:39] [Msg] Waiting for game state
+[2022-10-09 14:25:49] [Msg] Waiting for game state
+[2022-10-09 14:25:59] [Msg] Waiting for game state
+[2022-10-09 14:26:09] [Msg] Waiting for game state
+[2022-10-09 14:26:19] [Msg] Waiting for game state
+[2022-10-09 14:26:29] [Msg] Waiting for game state
+[2022-10-09 14:26:39] [Msg] Waiting for game state
+[2022-10-09 14:26:49] [Msg] Waiting for game state
+[2022-10-09 14:26:59] [Msg] Waiting for game state
+[2022-10-09 14:27:10] [Msg] Waiting for game state
+[2022-10-09 14:27:20] [Msg] Waiting for game state
+[2022-10-09 14:27:30] [Msg] Waiting for game state
+[2022-10-09 14:27:40] [Msg] Waiting for game state
+[2022-10-09 14:27:50] [Msg] Waiting for game state
+[2022-10-09 14:28:00] [Msg] Waiting for game state
+[2022-10-09 14:28:10] [Msg] Waiting for game state
+[2022-10-09 14:28:20] [Msg] Waiting for game state
+[2022-10-09 14:28:30] [Msg] Waiting for game state
+[2022-10-09 14:28:40] [Msg] Waiting for game state
+[2022-10-09 14:28:50] [Msg] Waiting for game state
+[2022-10-09 14:29:00] [Msg] Waiting for game state
+[2022-10-09 14:29:10] [Msg] Waiting for game state
+[2022-10-09 14:29:20] [Msg] Waiting for game state
+[2022-10-09 14:29:30] [Msg] Waiting for game state
+[2022-10-09 14:29:40] [Msg] Waiting for game state
+[2022-10-09 14:29:50] [Msg] Waiting for game state
+[2022-10-09 14:30:00] [Msg] Waiting for game state
+[2022-10-09 14:30:10] [Msg] Waiting for game state
+[2022-10-09 14:30:21] [Msg] Waiting for game state
+[2022-10-09 14:30:31] [Msg] Waiting for game state
+[2022-10-09 14:30:41] [Msg] Waiting for game state
+[2022-10-09 14:30:51] [Msg] Waiting for game state
+[2022-10-09 14:31:01] [Msg] Waiting for game state
+[2022-10-09 14:31:11] [Msg] Waiting for game state
+[2022-10-09 14:31:21] [Msg] Waiting for game state
+[2022-10-09 14:31:31] [Msg] Waiting for game state
+[2022-10-09 14:31:41] [Msg] Waiting for game state
+[2022-10-09 14:31:51] [Msg] Waiting for game state
+[2022-10-09 14:32:01] [Msg] Waiting for game state
+[2022-10-09 14:32:11] [Msg] Waiting for game state
+[2022-10-09 14:32:21] [Msg] Waiting for game state
+[2022-10-09 14:32:31] [Msg] Waiting for game state
+[2022-10-09 14:32:41] [Msg] Waiting for game state
+[2022-10-09 14:32:51] [Msg] Waiting for game state
+[2022-10-09 14:33:01] [Msg] Waiting for game state
+[2022-10-09 14:33:11] [Msg] Waiting for game state
+[2022-10-09 14:33:21] [Msg] Waiting for game state
+[2022-10-09 14:33:32] [Msg] Waiting for game state
+[2022-10-09 14:33:42] [Msg] Waiting for game state
+[2022-10-09 14:33:52] [Msg] Waiting for game state
+[2022-10-09 14:34:02] [Msg] Waiting for game state
+[2022-10-09 14:34:12] [Msg] Waiting for game state
+[2022-10-09 14:34:22] [Msg] Waiting for game state
+[2022-10-09 14:34:32] [Msg] Waiting for game state
+[2022-10-09 14:34:42] [Msg] Waiting for game state
+[2022-10-09 14:34:52] [Msg] Waiting for game state
+[2022-10-09 14:35:02] [Msg] Waiting for game state
+[2022-10-09 14:35:12] [Msg] Waiting for game state
+[2022-10-09 14:35:22] [Msg] Waiting for game state
+[2022-10-09 14:35:32] [Msg] Waiting for game state
+[2022-10-09 14:35:42] [Msg] Waiting for game state
+[2022-10-09 14:35:52] [Msg] Waiting for game state
+[2022-10-09 14:36:02] [Msg] Waiting for game state
+[2022-10-09 14:36:12] [Msg] Waiting for game state
+[2022-10-09 14:36:22] [Msg] Waiting for game state
+[2022-10-09 14:36:32] [Msg] Waiting for game state
+[2022-10-09 14:36:42] [Msg] Waiting for game state
+[2022-10-09 14:36:53] [Msg] Waiting for game state
+[2022-10-09 14:37:03] [Msg] Waiting for game state
+[2022-10-11 15:16:31] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-11 15:16:40] [Msg] Creating d3d hook
+[2022-10-11 15:16:40] [Msg] Creating script hook
+[2022-10-11 15:16:40] [Msg] Waiting for game state
+[2022-10-11 15:16:50] [Msg] Waiting for game state
+[2022-10-11 15:17:00] [Msg] Waiting for game state
+[2022-10-11 15:17:18] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-11 15:17:23] [Msg] Creating d3d hook
+[2022-10-11 15:17:23] [Msg] Creating script hook
+[2022-10-11 15:17:23] [Msg] Waiting for game state
+[2022-10-11 15:17:33] [Msg] Waiting for game state
+[2022-10-11 15:17:43] [Msg] Waiting for game state
+[2022-10-11 15:17:53] [Msg] Waiting for game state
+[2022-10-11 15:18:03] [Msg] Waiting for game state
+[2022-10-11 15:18:13] [Msg] Waiting for game state
+[2022-10-11 15:18:23] [Msg] Waiting for game state
+[2022-10-11 15:18:33] [Msg] Waiting for game state
+[2022-10-11 15:18:43] [Msg] Waiting for game state
+[2022-10-11 15:18:53] [Msg] Waiting for game state
+[2022-10-11 15:19:03] [Msg] Waiting for game state
+[2022-10-11 15:19:09] [Msg] Input hook created: 00000000FFFF08BB
+[2022-10-11 15:19:09] [Msg] Not loading any plugins
+[2022-10-11 20:58:01] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-11 20:58:06] [Msg] Creating d3d hook
+[2022-10-11 20:58:06] [Msg] Creating script hook
+[2022-10-11 20:58:06] [Msg] Waiting for game state
+[2022-10-11 20:58:17] [Msg] Waiting for game state
+[2022-10-11 20:58:27] [Msg] Waiting for game state
+[2022-10-11 20:58:37] [Msg] Waiting for game state
+[2022-10-11 20:58:47] [Msg] Waiting for game state
+[2022-10-11 20:58:57] [Msg] Waiting for game state
+[2022-10-11 20:59:07] [Msg] Waiting for game state
+[2022-10-11 20:59:17] [Msg] Waiting for game state
+[2022-10-11 20:59:27] [Msg] Waiting for game state
+[2022-10-11 20:59:37] [Msg] Waiting for game state
+[2022-10-11 20:59:39] [Msg] Input hook created: 00000000FFFF0DFD
+[2022-10-11 20:59:39] [Msg] Not loading any plugins
+[2022-10-11 21:03:18] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-11 21:03:18] [Msg] registering script 00007FFDFFE60000
+[2022-10-11 21:03:18] [Msg] registering kbproc 00007FFDFFE614E0
+[2022-10-11 21:03:18] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFDFFE60000
+[2022-10-11 21:03:20] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-11 21:03:20] [Msg] registering script 00007FFE09190000
+[2022-10-11 21:03:20] [Msg] registering kbproc 00007FFE09194540
+[2022-10-11 21:03:20] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFE09190000
+[2022-10-11 21:03:22] [Msg] Loading .\OpenIV.asi
+[2022-10-11 21:03:26] [Msg] Loaded .\OpenIV.asi: 0000000000000000
+[2022-10-11 21:03:28] [Msg] Loading .\OpenIV.asi
+[2022-10-11 21:03:34] [Msg] Loaded .\OpenIV.asi: 0000000000000000
+[2022-10-11 21:03:47] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi
+[2022-10-11 21:03:47] [Msg] registering script 00007FFDFFE30000
+[2022-10-11 21:03:47] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi: 00007FFDFFE30000
+[2022-10-11 21:03:47] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\vdo_tacho_bg.png
+[2022-10-11 21:03:47] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-11 21:03:47] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\NativeSpeedoArrow.png
+[2022-10-11 21:03:47] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-11 21:04:12] [Msg] Loading .\OpenIV.asi
+[2022-10-11 21:04:14] [Msg] Loaded .\OpenIV.asi: 0000000000000000
+[2022-10-11 21:05:04] [Msg] unregistering script 00007FFDFFE30000
+[2022-10-11 21:05:04] [Msg] unregistering script 00007FFE09190000
+[2022-10-11 21:05:04] [Msg] unregistering kbproc 00007FFE09194540
+[2022-10-11 21:05:04] [Msg] unregistering script 00007FFDFFE60000
+[2022-10-11 21:05:04] [Msg] unregistering kbproc 00007FFDFFE614E0
+[2022-10-12 17:13:56] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-12 17:14:06] [Msg] Creating d3d hook
+[2022-10-12 17:14:06] [Msg] Creating script hook
+[2022-10-12 17:14:06] [Msg] Waiting for game state
+[2022-10-12 17:14:16] [Msg] Waiting for game state
+[2022-10-12 17:14:26] [Msg] Waiting for game state
+[2022-10-12 17:14:36] [Msg] Waiting for game state
+[2022-10-12 17:14:46] [Msg] Waiting for game state
+[2022-10-12 17:14:56] [Msg] Waiting for game state
+[2022-10-12 17:15:06] [Msg] Waiting for game state
+[2022-10-12 17:15:16] [Msg] Waiting for game state
+[2022-10-12 17:15:26] [Msg] Waiting for game state
+[2022-10-12 17:15:36] [Msg] Waiting for game state
+[2022-10-12 17:15:46] [Msg] Waiting for game state
+[2022-10-12 17:15:56] [Msg] Waiting for game state
+[2022-10-12 17:16:06] [Msg] Waiting for game state
+[2022-10-12 17:16:16] [Msg] Waiting for game state
+[2022-10-12 17:16:26] [Msg] Waiting for game state
+[2022-10-12 17:16:36] [Msg] Waiting for game state
+[2022-10-12 17:16:46] [Msg] Waiting for game state
+[2022-10-12 17:16:56] [Msg] Waiting for game state
+[2022-10-12 17:17:06] [Msg] Waiting for game state
+[2022-10-12 17:17:16] [Msg] Waiting for game state
+[2022-10-12 17:17:27] [Msg] Waiting for game state
+[2022-10-12 17:17:37] [Msg] Waiting for game state
+[2022-10-12 17:17:47] [Msg] Waiting for game state
+[2022-10-12 17:17:57] [Msg] Waiting for game state
+[2022-10-12 17:18:07] [Msg] Waiting for game state
+[2022-10-12 17:18:17] [Msg] Waiting for game state
+[2022-10-12 17:18:27] [Msg] Waiting for game state
+[2022-10-12 17:18:37] [Msg] Waiting for game state
+[2022-10-12 17:18:47] [Msg] Waiting for game state
+[2022-10-12 17:18:57] [Msg] Waiting for game state
+[2022-10-12 17:19:07] [Msg] Waiting for game state
+[2022-10-12 17:19:17] [Msg] Waiting for game state
+[2022-10-12 17:19:27] [Msg] Waiting for game state
+[2022-10-12 17:19:37] [Msg] Waiting for game state
+[2022-10-12 17:19:47] [Msg] Waiting for game state
+[2022-10-12 17:19:57] [Msg] Waiting for game state
+[2022-10-12 17:20:07] [Msg] Waiting for game state
+[2022-10-12 17:20:17] [Msg] Waiting for game state
+[2022-10-12 17:20:27] [Msg] Waiting for game state
+[2022-10-12 17:20:37] [Msg] Waiting for game state
+[2022-10-12 17:20:47] [Msg] Waiting for game state
+[2022-10-12 17:20:57] [Msg] Waiting for game state
+[2022-10-12 17:21:07] [Msg] Waiting for game state
+[2022-10-12 17:21:17] [Msg] Waiting for game state
+[2022-10-12 17:21:27] [Msg] Waiting for game state
+[2022-10-12 17:21:37] [Msg] Waiting for game state
+[2022-10-12 17:21:47] [Msg] Waiting for game state
+[2022-10-12 17:21:57] [Msg] Waiting for game state
+[2022-10-12 17:22:07] [Msg] Waiting for game state
+[2022-10-12 17:22:17] [Msg] Waiting for game state
+[2022-10-12 17:22:28] [Msg] Waiting for game state
+[2022-10-12 17:22:38] [Msg] Waiting for game state
+[2022-10-12 17:22:48] [Msg] Waiting for game state
+[2022-10-12 17:22:58] [Msg] Waiting for game state
+[2022-10-12 17:23:08] [Msg] Waiting for game state
+[2022-10-12 17:23:18] [Msg] Waiting for game state
+[2022-10-12 17:23:28] [Msg] Waiting for game state
+[2022-10-12 17:23:38] [Msg] Waiting for game state
+[2022-10-12 17:23:48] [Msg] Waiting for game state
+[2022-10-12 17:23:58] [Msg] Waiting for game state
+[2022-10-12 17:24:08] [Msg] Waiting for game state
+[2022-10-12 17:24:18] [Msg] Waiting for game state
+[2022-10-12 17:24:28] [Msg] Waiting for game state
+[2022-10-12 17:24:38] [Msg] Waiting for game state
+[2022-10-12 17:24:48] [Msg] Waiting for game state
+[2022-10-12 17:24:58] [Msg] Waiting for game state
+[2022-10-12 17:25:08] [Msg] Waiting for game state
+[2022-10-12 17:25:18] [Msg] Waiting for game state
+[2022-10-12 17:25:28] [Msg] Waiting for game state
+[2022-10-12 17:25:38] [Msg] Waiting for game state
+[2022-10-12 17:25:48] [Msg] Waiting for game state
+[2022-10-12 17:25:58] [Msg] Waiting for game state
+[2022-10-12 17:26:08] [Msg] Waiting for game state
+[2022-10-12 17:26:17] [Msg] Input hook created: 00000000FFFF0639
+[2022-10-12 17:26:17] [Msg] Not loading any plugins
+[2022-10-12 17:29:57] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-12 17:30:03] [Msg] Creating d3d hook
+[2022-10-12 17:30:03] [Msg] Creating script hook
+[2022-10-12 17:30:03] [Msg] Waiting for game state
+[2022-10-12 17:30:13] [Msg] Waiting for game state
+[2022-10-12 17:30:23] [Msg] Waiting for game state
+[2022-10-12 17:30:33] [Msg] Waiting for game state
+[2022-10-12 17:30:38] [Msg] Input hook created: 00000000FFFF09B7
+[2022-10-12 17:30:38] [Msg] Not loading any plugins
+[2022-10-12 17:33:56] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-12 17:34:01] [Msg] Creating d3d hook
+[2022-10-12 17:34:02] [Msg] Creating script hook
+[2022-10-12 17:34:02] [Msg] Waiting for game state
+[2022-10-12 17:34:12] [Msg] Waiting for game state
+[2022-10-12 17:34:22] [Msg] Waiting for game state
+[2022-10-12 17:34:31] [Msg] Input hook created: 00000000FFFF08AB
+[2022-10-12 17:34:31] [Msg] Not loading any plugins
+[2022-10-12 17:41:16] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-12 17:41:16] [Msg] registering script 00007FFD78170000
+[2022-10-12 17:41:16] [Msg] registering kbproc 00007FFD78174540
+[2022-10-12 17:41:16] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFD78170000
+[2022-10-12 17:41:20] [Msg] removing kbproc 00007FFD78174540
+[2022-10-12 17:41:20] [Msg] Freeing 00007FFD78170000
+[2022-10-12 17:41:20] [Msg] unregistering script 00007FFD78170000
+[2022-10-12 17:41:20] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-12 17:41:20] [Msg] registering script 00007FFD78170000
+[2022-10-12 17:41:20] [Msg] registering kbproc 00007FFD78174540
+[2022-10-12 17:41:20] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFD78170000
+[2022-10-12 17:41:22] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi
+[2022-10-12 17:41:22] [Msg] registering script 00007FFD77BB0000
+[2022-10-12 17:41:22] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi: 00007FFD77BB0000
+[2022-10-12 17:41:22] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\vdo_tacho_bg.png
+[2022-10-12 17:41:22] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-12 17:41:22] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\NativeSpeedoArrow.png
+[2022-10-12 17:41:22] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-12 17:41:25] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-12 17:41:25] [Msg] registering script 00007FFD775E0000
+[2022-10-12 17:41:25] [Msg] registering kbproc 00007FFD775E14E0
+[2022-10-12 17:41:25] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFD775E0000
+[2022-10-12 17:53:25] [Msg] unregistering script 00007FFD775E0000
+[2022-10-12 17:53:25] [Msg] unregistering kbproc 00007FFD775E14E0
+[2022-10-12 17:53:25] [Msg] unregistering script 00007FFD77BB0000
+[2022-10-12 17:53:25] [Msg] unregistering script 00007FFD78170000
+[2022-10-12 17:53:25] [Msg] unregistering kbproc 00007FFD78174540
+[2022-10-12 20:06:16] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-12 20:06:24] [Msg] Creating d3d hook
+[2022-10-12 20:06:24] [Msg] Creating script hook
+[2022-10-12 20:06:24] [Msg] Waiting for game state
+[2022-10-12 20:06:34] [Msg] Waiting for game state
+[2022-10-12 20:06:44] [Msg] Waiting for game state
+[2022-10-12 20:06:54] [Msg] Waiting for game state
+[2022-10-12 20:07:04] [Msg] Waiting for game state
+[2022-10-12 20:07:14] [Msg] Waiting for game state
+[2022-10-12 20:07:24] [Msg] Waiting for game state
+[2022-10-12 20:07:35] [Msg] Waiting for game state
+[2022-10-12 20:07:45] [Msg] Waiting for game state
+[2022-10-12 20:07:55] [Msg] Waiting for game state
+[2022-10-12 20:08:05] [Msg] Waiting for game state
+[2022-10-12 20:08:15] [Msg] Waiting for game state
+[2022-10-12 20:08:18] [Msg] Input hook created: 00000000FFFF0725
+[2022-10-12 20:08:18] [Msg] Not loading any plugins
+[2022-10-12 20:22:14] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-12 20:22:14] [Msg] registering script 00007FFD8A1B0000
+[2022-10-12 20:22:14] [Msg] registering kbproc 00007FFD8A1B4540
+[2022-10-12 20:22:14] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFD8A1B0000
+[2022-10-12 20:22:19] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi
+[2022-10-12 20:22:19] [Msg] registering script 00007FFD1D350000
+[2022-10-12 20:22:19] [Msg] registering script additional 00007FFD1D350000
+[2022-10-12 20:22:19] [Msg] registering kbproc 00007FFD1D562C90
+[2022-10-12 20:22:19] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi: 00007FFD1D350000
+[2022-10-12 20:22:49] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-12 20:22:49] [Msg] registering script 00007FFD53750000
+[2022-10-12 20:22:49] [Msg] registering kbproc 00007FFD537514E0
+[2022-10-12 20:22:49] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFD53750000
+[2022-10-12 20:22:58] [Msg] Freeing 00007FFD1D350000
+[2022-10-12 20:22:58] [Msg] unregistering script 00007FFD1D350000
+[2022-10-12 20:22:58] [Msg] Freeing 00007FFD53750000
+[2022-10-12 20:22:58] [Msg] Freeing 00007FFD8A1B0000
+[2022-10-12 20:22:58] [Msg] unregistering script 00007FFD8A1B0000
+[2022-10-12 20:23:00] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-12 20:23:00] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFD53750000
+[2022-10-12 20:23:01] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-12 20:23:01] [Msg] registering script 00007FFD8A1B0000
+[2022-10-12 20:23:01] [Msg] registering kbproc 00007FFD8A1B4540
+[2022-10-12 20:23:01] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFD8A1B0000
+[2022-10-12 20:23:02] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi
+[2022-10-12 20:23:02] [Msg] registering script 00007FFD1D350000
+[2022-10-12 20:23:02] [Msg] registering script additional 00007FFD1D350000
+[2022-10-12 20:23:02] [Msg] registering kbproc 00007FFD1D562C90
+[2022-10-12 20:23:02] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi: 00007FFD1D350000
+[2022-10-12 20:24:37] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi
+[2022-10-12 20:24:37] [Msg] registering script 00007FFD70CB0000
+[2022-10-12 20:24:37] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi: 00007FFD70CB0000
+[2022-10-12 20:24:37] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\vdo_tacho_bg.png
+[2022-10-12 20:24:37] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-12 20:24:37] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\NativeSpeedoArrow.png
+[2022-10-12 20:24:37] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-12 20:41:51] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-12 20:41:57] [Msg] Creating d3d hook
+[2022-10-12 20:41:57] [Msg] Creating script hook
+[2022-10-12 20:41:57] [Msg] Waiting for game state
+[2022-10-12 20:42:07] [Msg] Waiting for game state
+[2022-10-12 20:42:17] [Msg] Waiting for game state
+[2022-10-12 20:42:27] [Msg] Waiting for game state
+[2022-10-12 20:42:37] [Msg] Waiting for game state
+[2022-10-12 20:42:47] [Msg] Waiting for game state
+[2022-10-12 20:42:57] [Msg] Waiting for game state
+[2022-10-12 20:43:07] [Msg] Waiting for game state
+[2022-10-12 20:43:17] [Msg] Waiting for game state
+[2022-10-12 20:43:27] [Msg] Waiting for game state
+[2022-10-12 20:43:32] [Msg] Input hook created: 00000000FFFF0931
+[2022-10-12 20:43:32] [Msg] Not loading any plugins
+[2022-10-12 20:51:38] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-12 20:51:44] [Msg] Creating d3d hook
+[2022-10-12 20:51:44] [Msg] Creating script hook
+[2022-10-12 20:51:44] [Msg] Waiting for game state
+[2022-10-12 20:51:54] [Msg] Waiting for game state
+[2022-10-12 20:52:04] [Msg] Waiting for game state
+[2022-10-12 20:52:14] [Msg] Waiting for game state
+[2022-10-12 20:52:24] [Msg] Waiting for game state
+[2022-10-12 20:52:34] [Msg] Waiting for game state
+[2022-10-12 20:52:44] [Msg] Waiting for game state
+[2022-10-12 20:52:54] [Msg] Waiting for game state
+[2022-10-12 20:53:04] [Msg] Waiting for game state
+[2022-10-12 20:53:14] [Msg] Waiting for game state
+[2022-10-12 20:53:24] [Msg] Waiting for game state
+[2022-10-12 20:53:34] [Msg] Waiting for game state
+[2022-10-12 20:53:37] [Msg] Input hook created: 00000000FFFF0995
+[2022-10-12 20:53:37] [Msg] Not loading any plugins
+[2022-10-12 20:55:22] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi
+[2022-10-12 20:55:22] [Msg] registering script 00007FFD78180000
+[2022-10-12 20:55:22] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi: 00007FFD78180000
+[2022-10-12 20:55:22] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\vdo_tacho_bg.png
+[2022-10-12 20:55:22] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-12 20:55:22] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\NativeSpeedoArrow.png
+[2022-10-12 20:55:22] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-12 21:01:58] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi
+[2022-10-12 21:01:58] [Msg] registering script 00007FFD1DE70000
+[2022-10-12 21:01:58] [Msg] registering script additional 00007FFD1DE70000
+[2022-10-12 21:01:58] [Msg] registering kbproc 00007FFD1E082C90
+[2022-10-12 21:01:58] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi: 00007FFD1DE70000
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_orange.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_orange.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_red.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_red.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan2.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green2.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow2.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange2.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple2.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink2.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_face.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handh.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handm.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_face.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handh.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handm.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxKeyboard.png
+[2022-10-12 21:01:58] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxGamepad.png
+[2022-10-12 21:25:58] [Msg] unregistering script 00007FFD1DE70000
+[2022-10-12 21:25:58] [Msg] unregistering kbproc 00007FFD1E082C90
+[2022-10-12 21:25:58] [Msg] unregistering script 00007FFD78180000
+[2022-10-13 15:59:38] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-13 15:59:47] [Msg] Creating d3d hook
+[2022-10-13 15:59:47] [Msg] Creating script hook
+[2022-10-13 15:59:47] [Msg] Waiting for game state
+[2022-10-13 15:59:57] [Msg] Waiting for game state
+[2022-10-13 16:00:07] [Msg] Waiting for game state
+[2022-10-13 16:00:17] [Msg] Waiting for game state
+[2022-10-13 16:00:27] [Msg] Waiting for game state
+[2022-10-13 16:00:37] [Msg] Waiting for game state
+[2022-10-13 16:00:47] [Msg] Waiting for game state
+[2022-10-13 16:00:57] [Msg] Waiting for game state
+[2022-10-13 16:01:07] [Msg] Waiting for game state
+[2022-10-13 16:01:17] [Msg] Waiting for game state
+[2022-10-13 16:01:27] [Msg] Waiting for game state
+[2022-10-13 16:01:37] [Msg] Waiting for game state
+[2022-10-13 16:01:47] [Msg] Waiting for game state
+[2022-10-13 16:01:58] [Msg] Waiting for game state
+[2022-10-13 16:02:08] [Msg] Waiting for game state
+[2022-10-13 16:02:18] [Msg] Waiting for game state
+[2022-10-13 16:02:28] [Msg] Waiting for game state
+[2022-10-13 16:02:36] [Msg] Input hook created: 00000000FFFF0839
+[2022-10-13 16:02:36] [Msg] Not loading any plugins
+[2022-10-13 16:03:47] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Jordans_Menu_1.asi
+[2022-10-13 16:03:47] [Msg] registering script 00007FFE96CE0000
+[2022-10-13 16:03:47] [Msg] registering kbproc 00007FFE96CE1100
+[2022-10-13 16:03:47] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Jordans_Menu_1.asi: 00007FFE96CE0000
+[2022-10-13 16:04:33] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-13 16:04:33] [Msg] registering script 00007FFEA8F80000
+[2022-10-13 16:04:33] [Msg] registering kbproc 00007FFEA8F814E0
+[2022-10-13 16:04:33] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFEA8F80000
+[2022-10-13 16:04:34] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi
+[2022-10-13 16:04:34] [Msg] registering script 00007FFE540E0000
+[2022-10-13 16:04:34] [Msg] registering script additional 00007FFE540E0000
+[2022-10-13 16:04:34] [Msg] registering kbproc 00007FFE542F2C90
+[2022-10-13 16:04:34] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi: 00007FFE540E0000
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_orange.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_orange.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_red.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_red.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan2.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green2.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow2.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange2.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple2.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink2.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_face.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handh.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handm.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_face.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handh.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handm.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxKeyboard.png
+[2022-10-13 16:04:34] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxGamepad.png
+[2022-10-13 16:04:35] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-13 16:04:35] [Msg] registering script 00007FFE96E60000
+[2022-10-13 16:04:35] [Msg] registering kbproc 00007FFE96E64540
+[2022-10-13 16:04:35] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFE96E60000
+[2022-10-13 16:06:02] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-13 16:06:08] [Msg] Creating d3d hook
+[2022-10-13 16:06:08] [Msg] Creating script hook
+[2022-10-13 16:06:08] [Msg] Waiting for game state
+[2022-10-13 16:06:18] [Msg] Waiting for game state
+[2022-10-13 16:06:28] [Msg] Waiting for game state
+[2022-10-13 16:06:38] [Msg] Waiting for game state
+[2022-10-13 16:06:48] [Msg] Waiting for game state
+[2022-10-13 16:06:58] [Msg] Waiting for game state
+[2022-10-13 16:07:08] [Msg] Waiting for game state
+[2022-10-13 16:07:18] [Msg] Waiting for game state
+[2022-10-13 16:07:28] [Msg] Waiting for game state
+[2022-10-13 16:07:28] [Msg] Input hook created: 00000000FFFF0789
+[2022-10-13 16:07:28] [Msg] Not loading any plugins
+[2022-10-13 16:07:46] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi
+[2022-10-13 16:07:46] [Msg] registering script 00007FFE817B0000
+[2022-10-13 16:07:46] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi: 00007FFE817B0000
+[2022-10-13 16:07:46] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\vdo_tacho_bg.png
+[2022-10-13 16:07:46] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-13 16:07:46] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\NativeSpeedoArrow.png
+[2022-10-13 16:07:46] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-13 16:07:47] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-13 16:07:47] [Msg] registering script 00007FFE81780000
+[2022-10-13 16:07:47] [Msg] registering kbproc 00007FFE817814E0
+[2022-10-13 16:07:47] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFE81780000
+[2022-10-13 16:07:49] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-13 16:07:49] [Msg] registering script 00007FFE96A20000
+[2022-10-13 16:07:49] [Msg] registering kbproc 00007FFE96A24540
+[2022-10-13 16:07:49] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFE96A20000
+[2022-10-13 16:35:40] [Msg] unregistering script 00007FFE96A20000
+[2022-10-13 16:35:40] [Msg] unregistering kbproc 00007FFE96A24540
+[2022-10-13 16:35:40] [Msg] unregistering script 00007FFE81780000
+[2022-10-13 16:35:40] [Msg] unregistering kbproc 00007FFE817814E0
+[2022-10-13 16:35:40] [Msg] unregistering script 00007FFE817B0000
+[2022-10-13 18:06:03] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-13 18:06:10] [Msg] Creating d3d hook
+[2022-10-13 18:06:10] [Msg] Creating script hook
+[2022-10-13 18:06:10] [Msg] Waiting for game state
+[2022-10-13 18:06:20] [Msg] Waiting for game state
+[2022-10-13 18:06:30] [Msg] Waiting for game state
+[2022-10-13 18:06:40] [Msg] Waiting for game state
+[2022-10-13 18:06:50] [Msg] Waiting for game state
+[2022-10-13 18:07:00] [Msg] Waiting for game state
+[2022-10-13 18:07:10] [Msg] Waiting for game state
+[2022-10-13 18:07:20] [Msg] Waiting for game state
+[2022-10-13 18:07:30] [Msg] Waiting for game state
+[2022-10-13 18:07:40] [Msg] Waiting for game state
+[2022-10-13 18:07:50] [Msg] Waiting for game state
+[2022-10-13 18:08:00] [Msg] Waiting for game state
+[2022-10-13 18:08:10] [Msg] Waiting for game state
+[2022-10-13 18:08:14] [Msg] Input hook created: 00000000FFFF0B55
+[2022-10-13 18:08:14] [Msg] Not loading any plugins
+[2022-10-13 18:10:37] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi
+[2022-10-13 18:10:37] [Msg] registering script 00007FFE59050000
+[2022-10-13 18:10:37] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi: 00007FFE59050000
+[2022-10-13 18:10:37] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\vdo_tacho_bg.png
+[2022-10-13 18:10:37] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-13 18:10:37] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\NativeSpeedoArrow.png
+[2022-10-13 18:10:37] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-13 18:10:39] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-13 18:10:39] [Msg] registering script 00007FFE0AFF0000
+[2022-10-13 18:10:39] [Msg] registering kbproc 00007FFE0AFF14E0
+[2022-10-13 18:10:39] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFE0AFF0000
+[2022-10-13 18:10:40] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-13 18:10:40] [Msg] registering script 00007FFE56620000
+[2022-10-13 18:10:40] [Msg] registering kbproc 00007FFE56624540
+[2022-10-13 18:10:40] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFE56620000
+[2022-10-13 18:21:12] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi
+[2022-10-13 18:21:12] [Msg] registering script 00007FFE0ACD0000
+[2022-10-13 18:21:12] [Msg] registering script additional 00007FFE0ACD0000
+[2022-10-13 18:21:12] [Msg] registering kbproc 00007FFE0AEE2C90
+[2022-10-13 18:21:12] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi: 00007FFE0ACD0000
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_orange.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_orange.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_red.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_red.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan2.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green2.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow2.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange2.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple2.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink2.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_face.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handh.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handm.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_face.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handh.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handm.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxKeyboard.png
+[2022-10-13 18:21:12] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxGamepad.png
+[2022-10-13 18:21:28] [Msg] removing kbproc 00007FFE0AEE2C90
+[2022-10-13 18:21:28] [Msg] Freeing 00007FFE0ACD0000
+[2022-10-13 18:21:28] [Msg] unregistering script 00007FFE0ACD0000
+[2022-10-13 18:21:30] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Jordans_Menu_1.asi
+[2022-10-13 18:21:30] [Msg] registering script 00007FFE15710000
+[2022-10-13 18:21:30] [Msg] registering kbproc 00007FFE15711100
+[2022-10-13 18:21:30] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Jordans_Menu_1.asi: 00007FFE15710000
+[2022-10-13 21:51:01] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-13 21:51:11] [Msg] Creating d3d hook
+[2022-10-13 21:51:11] [Msg] Creating script hook
+[2022-10-13 21:51:11] [Msg] Waiting for game state
+[2022-10-13 21:51:21] [Msg] Waiting for game state
+[2022-10-13 21:51:31] [Msg] Waiting for game state
+[2022-10-13 21:51:41] [Msg] Waiting for game state
+[2022-10-13 21:51:51] [Msg] Waiting for game state
+[2022-10-13 21:52:01] [Msg] Waiting for game state
+[2022-10-13 21:52:11] [Msg] Waiting for game state
+[2022-10-13 21:52:21] [Msg] Waiting for game state
+[2022-10-13 21:52:31] [Msg] Waiting for game state
+[2022-10-13 21:52:41] [Msg] Waiting for game state
+[2022-10-13 21:52:51] [Msg] Waiting for game state
+[2022-10-13 21:53:01] [Msg] Waiting for game state
+[2022-10-13 21:53:12] [Msg] Waiting for game state
+[2022-10-13 21:53:22] [Msg] Waiting for game state
+[2022-10-13 21:53:25] [Msg] Input hook created: 00000000FFFF04D1
+[2022-10-13 21:53:25] [Msg] Not loading any plugins
+[2022-10-13 21:55:26] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi
+[2022-10-13 21:55:26] [Msg] registering script 00007FFF50220000
+[2022-10-13 21:55:26] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi: 00007FFF50220000
+[2022-10-13 21:55:26] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\vdo_tacho_bg.png
+[2022-10-13 21:55:26] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-13 21:55:26] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\NativeSpeedoArrow.png
+[2022-10-13 21:55:26] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-13 21:55:28] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-13 21:55:28] [Msg] registering script 00007FFF3CD60000
+[2022-10-13 21:55:28] [Msg] registering kbproc 00007FFF3CD614E0
+[2022-10-13 21:55:28] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFF3CD60000
+[2022-10-13 21:55:32] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Jordans_Menu_1.asi
+[2022-10-13 21:55:32] [Msg] registering script 00007FFF310E0000
+[2022-10-13 21:55:32] [Msg] registering kbproc 00007FFF310E1100
+[2022-10-13 21:55:32] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Jordans_Menu_1.asi: 00007FFF310E0000
+[2022-10-14 15:38:19] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-14 15:38:29] [Msg] Creating d3d hook
+[2022-10-14 15:38:29] [Msg] Creating script hook
+[2022-10-14 15:38:29] [Msg] Waiting for game state
+[2022-10-14 15:38:39] [Msg] Waiting for game state
+[2022-10-14 15:38:49] [Msg] Waiting for game state
+[2022-10-14 15:38:59] [Msg] Waiting for game state
+[2022-10-14 15:39:09] [Msg] Waiting for game state
+[2022-10-14 15:39:19] [Msg] Waiting for game state
+[2022-10-14 15:39:29] [Msg] Waiting for game state
+[2022-10-14 15:39:39] [Msg] Waiting for game state
+[2022-10-14 15:39:49] [Msg] Waiting for game state
+[2022-10-14 15:39:59] [Msg] Waiting for game state
+[2022-10-14 15:40:09] [Msg] Waiting for game state
+[2022-10-14 15:40:19] [Msg] Waiting for game state
+[2022-10-14 15:40:29] [Msg] Waiting for game state
+[2022-10-14 15:40:39] [Msg] Waiting for game state
+[2022-10-14 15:40:49] [Msg] Waiting for game state
+[2022-10-14 15:40:59] [Msg] Waiting for game state
+[2022-10-14 15:41:09] [Msg] Waiting for game state
+[2022-10-14 15:41:19] [Msg] Waiting for game state
+[2022-10-14 15:41:29] [Msg] Waiting for game state
+[2022-10-14 15:41:39] [Msg] Waiting for game state
+[2022-10-14 15:41:49] [Msg] Waiting for game state
+[2022-10-14 15:42:00] [Msg] Waiting for game state
+[2022-10-14 15:42:10] [Msg] Waiting for game state
+[2022-10-14 15:42:20] [Msg] Waiting for game state
+[2022-10-14 15:42:30] [Msg] Waiting for game state
+[2022-10-14 15:42:40] [Msg] Waiting for game state
+[2022-10-14 15:42:50] [Msg] Waiting for game state
+[2022-10-14 15:43:00] [Msg] Waiting for game state
+[2022-10-14 15:43:10] [Msg] Waiting for game state
+[2022-10-14 15:43:20] [Msg] Waiting for game state
+[2022-10-14 15:43:30] [Msg] Waiting for game state
+[2022-10-14 15:43:40] [Msg] Waiting for game state
+[2022-10-14 15:43:50] [Msg] Waiting for game state
+[2022-10-14 15:44:00] [Msg] Waiting for game state
+[2022-10-14 15:44:10] [Msg] Waiting for game state
+[2022-10-14 15:44:20] [Msg] Waiting for game state
+[2022-10-14 15:44:30] [Msg] Waiting for game state
+[2022-10-14 15:44:40] [Msg] Waiting for game state
+[2022-10-14 15:44:50] [Msg] Waiting for game state
+[2022-10-14 15:45:00] [Msg] Waiting for game state
+[2022-10-14 15:45:10] [Msg] Waiting for game state
+[2022-10-14 15:45:21] [Msg] Waiting for game state
+[2022-10-14 15:45:31] [Msg] Waiting for game state
+[2022-10-14 15:45:49] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-14 15:45:54] [Msg] Creating d3d hook
+[2022-10-14 15:45:54] [Msg] Creating script hook
+[2022-10-14 15:45:54] [Msg] Waiting for game state
+[2022-10-14 15:46:04] [Msg] Waiting for game state
+[2022-10-14 15:46:14] [Msg] Waiting for game state
+[2022-10-14 15:46:24] [Msg] Waiting for game state
+[2022-10-14 15:46:34] [Msg] Waiting for game state
+[2022-10-14 15:46:45] [Msg] Waiting for game state
+[2022-10-14 15:46:55] [Msg] Waiting for game state
+[2022-10-14 15:47:05] [Msg] Waiting for game state
+[2022-10-14 15:47:15] [Msg] Waiting for game state
+[2022-10-14 15:47:25] [Msg] Waiting for game state
+[2022-10-14 15:47:32] [Msg] Input hook created: 00000000FFFF0805
+[2022-10-14 15:47:32] [Msg] Not loading any plugins
+[2022-10-14 15:48:14] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi
+[2022-10-14 15:48:14] [Msg] registering script 00007FFE2A060000
+[2022-10-14 15:48:14] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi: 00007FFE2A060000
+[2022-10-14 15:48:14] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\vdo_tacho_bg.png
+[2022-10-14 15:48:14] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-14 15:48:14] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\NativeSpeedoArrow.png
+[2022-10-14 15:48:14] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-14 15:48:15] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-14 15:48:15] [Msg] registering script 00007FFE0C6A0000
+[2022-10-14 15:48:15] [Msg] registering kbproc 00007FFE0C6A14E0
+[2022-10-14 15:48:15] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFE0C6A0000
+[2022-10-14 15:48:17] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-14 15:48:17] [Msg] registering script 00007FFE2F6C0000
+[2022-10-14 15:48:17] [Msg] registering kbproc 00007FFE2F6C4540
+[2022-10-14 15:48:17] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFE2F6C0000
+[2022-10-14 16:02:55] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Jordans_Menu_1.asi
+[2022-10-14 16:02:55] [Msg] registering script 00007FFE29B20000
+[2022-10-14 16:02:55] [Msg] registering kbproc 00007FFE29B21100
+[2022-10-14 16:02:55] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Jordans_Menu_1.asi: 00007FFE29B20000
+[2022-10-14 16:28:00] [Msg] unregistering script 00007FFE29B20000
+[2022-10-14 16:28:00] [Msg] unregistering kbproc 00007FFE29B21100
+[2022-10-14 16:28:00] [Msg] unregistering script 00007FFE2F6C0000
+[2022-10-14 16:28:00] [Msg] unregistering kbproc 00007FFE2F6C4540
+[2022-10-14 16:58:47] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-14 16:58:54] [Msg] Creating d3d hook
+[2022-10-14 16:58:54] [Msg] Creating script hook
+[2022-10-14 16:58:54] [Msg] Waiting for game state
+[2022-10-14 16:59:04] [Msg] Waiting for game state
+[2022-10-14 16:59:14] [Msg] Waiting for game state
+[2022-10-14 16:59:24] [Msg] Waiting for game state
+[2022-10-14 16:59:34] [Msg] Waiting for game state
+[2022-10-14 16:59:44] [Msg] Waiting for game state
+[2022-10-14 16:59:54] [Msg] Waiting for game state
+[2022-10-14 17:00:04] [Msg] Waiting for game state
+[2022-10-14 17:00:14] [Msg] Waiting for game state
+[2022-10-14 17:00:24] [Msg] Waiting for game state
+[2022-10-14 17:00:34] [Msg] Waiting for game state
+[2022-10-14 17:00:44] [Msg] Waiting for game state
+[2022-10-14 17:00:54] [Msg] Waiting for game state
+[2022-10-14 17:01:04] [Msg] Waiting for game state
+[2022-10-14 17:01:14] [Msg] Waiting for game state
+[2022-10-14 17:01:24] [Msg] Waiting for game state
+[2022-10-14 17:01:26] [Msg] Input hook created: 00000000FFFF0C29
+[2022-10-14 17:01:26] [Msg] Not loading any plugins
+[2022-10-15 18:56:25] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-15 18:56:34] [Msg] Creating d3d hook
+[2022-10-15 18:56:34] [Msg] Creating script hook
+[2022-10-15 18:56:34] [Msg] Waiting for game state
+[2022-10-15 18:56:45] [Msg] Waiting for game state
+[2022-10-15 18:56:55] [Msg] Waiting for game state
+[2022-10-15 18:57:05] [Msg] Waiting for game state
+[2022-10-15 18:57:15] [Msg] Waiting for game state
+[2022-10-15 18:57:25] [Msg] Waiting for game state
+[2022-10-15 18:57:35] [Msg] Waiting for game state
+[2022-10-15 18:57:45] [Msg] Waiting for game state
+[2022-10-15 18:57:55] [Msg] Waiting for game state
+[2022-10-15 18:58:05] [Msg] Waiting for game state
+[2022-10-15 18:58:07] [Msg] Input hook created: 00000000FFFF094D
+[2022-10-15 18:58:07] [Msg] Not loading any plugins
+[2022-10-15 19:01:27] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-15 19:01:27] [Msg] registering script 00007FFB00A50000
+[2022-10-15 19:01:27] [Msg] registering kbproc 00007FFB00A54540
+[2022-10-15 19:01:27] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFB00A50000
+[2022-10-15 19:01:32] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi
+[2022-10-15 19:01:32] [Msg] registering script 00007FFA7E660000
+[2022-10-15 19:01:32] [Msg] registering script additional 00007FFA7E660000
+[2022-10-15 19:01:32] [Msg] registering kbproc 00007FFA7E872C90
+[2022-10-15 19:01:32] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Menyoo.asi: 00007FFA7E660000
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_orange.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_orange.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_red.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_red.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan2.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green2.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow2.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange2.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple2.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink2.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_face.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handh.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handm.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_face.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handh.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handm.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxKeyboard.png
+[2022-10-15 19:01:33] [Msg] Loading texture D:\Rockstar Games Library\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxGamepad.png
+[2022-10-15 19:01:34] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Jordans_Menu_1.asi
+[2022-10-15 19:01:34] [Msg] registering script 00007FFA80BA0000
+[2022-10-15 19:01:34] [Msg] registering kbproc 00007FFA80BA1100
+[2022-10-15 19:01:34] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\Jordans_Menu_1.asi: 00007FFA80BA0000
+[2022-10-15 19:01:35] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi
+[2022-10-15 19:01:35] [Msg] registering script 00007FFAE1CA0000
+[2022-10-15 19:01:35] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi: 00007FFAE1CA0000
+[2022-10-15 19:01:35] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\vdo_tacho_bg.png
+[2022-10-15 19:01:35] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-15 19:01:35] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\NativeSpeedoArrow.png
+[2022-10-15 19:01:35] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-15 19:01:35] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-15 19:01:35] [Msg] registering script 00007FFA9E3E0000
+[2022-10-15 19:01:35] [Msg] registering kbproc 00007FFA9E3E14E0
+[2022-10-15 19:01:35] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFA9E3E0000
+[2022-10-15 19:17:52] [Msg] removing kbproc 00007FFA80BA1100
+[2022-10-15 19:17:52] [Msg] Freeing 00007FFA80BA0000
+[2022-10-15 19:17:52] [Msg] unregistering script 00007FFA80BA0000
+[2022-10-15 19:18:30] [Msg] unregistering script 00007FFA9E3E0000
+[2022-10-15 19:18:30] [Msg] unregistering kbproc 00007FFA9E3E14E0
+[2022-10-15 19:18:30] [Msg] unregistering script 00007FFAE1CA0000
+[2022-10-15 19:18:30] [Msg] unregistering script 00007FFA7E660000
+[2022-10-15 19:18:30] [Msg] unregistering kbproc 00007FFA7E872C90
+[2022-10-15 19:18:30] [Msg] unregistering script 00007FFB00A50000
+[2022-10-15 19:18:30] [Msg] unregistering kbproc 00007FFB00A54540
+[2022-10-15 19:18:50] [Msg] Initializing 2Take1 ScriptHook
+[2022-10-15 19:18:57] [Msg] Creating d3d hook
+[2022-10-15 19:18:57] [Msg] Creating script hook
+[2022-10-15 19:18:57] [Msg] Waiting for game state
+[2022-10-15 19:19:07] [Msg] Waiting for game state
+[2022-10-15 19:19:17] [Msg] Waiting for game state
+[2022-10-15 19:19:27] [Msg] Waiting for game state
+[2022-10-15 19:19:37] [Msg] Waiting for game state
+[2022-10-15 19:19:47] [Msg] Waiting for game state
+[2022-10-15 19:19:47] [Msg] Input hook created: 00000000FFFF09A7
+[2022-10-15 19:19:47] [Msg] Not loading any plugins
+[2022-10-15 19:28:15] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi
+[2022-10-15 19:28:15] [Msg] registering script 00007FFAE1CA0000
+[2022-10-15 19:28:15] [Msg] registering kbproc 00007FFAE1CA14E0
+[2022-10-15 19:28:15] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\ScriptHookVDotNet.asi: 00007FFAE1CA0000
+[2022-10-15 19:28:16] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi
+[2022-10-15 19:28:16] [Msg] registering script 00007FFA9CD90000
+[2022-10-15 19:28:16] [Msg] registering kbproc 00007FFA9CD94540
+[2022-10-15 19:28:16] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\VSReloader.asi: 00007FFA9CD90000
+[2022-10-15 19:28:18] [Msg] Loading C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi
+[2022-10-15 19:28:18] [Msg] registering script 00007FFA80440000
+[2022-10-15 19:28:18] [Msg] Loaded C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\DriftMod.asi: 00007FFA80440000
+[2022-10-15 19:28:18] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\vdo_tacho_bg.png
+[2022-10-15 19:28:18] [Error] CreateWICTextureFromFile failed: 0x80070002
+[2022-10-15 19:28:18] [Msg] Loading texture C:\Users\Unknown\AppData\Roaming\PopstarDevs\ScriptHook\NativeSpeedoArrow.png
+[2022-10-15 19:28:18] [Error] CreateWICTextureFromFile failed: 0x80070002

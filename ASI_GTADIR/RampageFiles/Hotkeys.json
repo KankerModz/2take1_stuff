@@ -1,0 +1,12 @@
+{
+    "Hotkeys": {
+        "Cursor Key": 88,
+        "Cursor Key Info": "X",
+        "Cursor Key Toggle": true,
+        "Teleport Key": 116,
+        "Teleport Key Info": "F5",
+        "Teleport Key Toggle": true,
+        "Fix Vehicle Key Toggle": true,
+        "Creator Key Toggle": true
+    }
+}
